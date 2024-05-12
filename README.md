@@ -57,7 +57,9 @@ or(f2,s,t,u);
 endmodule
 
 
+**RTL realization**
 
+![322416806-a86b8a88-9cfd-46f7-a430-98227cff9fc4](https://github.com/HemapriyaOfficial/BOOLEAN_FUNCTION_MINIMIZATION/assets/147114275/b530c10e-1c34-4070-9f52-d23d3f1ffe08)
 
 **Output:**
 ![Screenshot (54)](https://github.com/HemapriyaOfficial/BOOLEAN_FUNCTION_MINIMIZATION/assets/147114275/b5daa90e-6aea-483b-9aee-ad8fbbe55d9a)
