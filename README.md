@@ -33,6 +33,10 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
+Developed by:Hemapriya.K 
+
+RegisterNumber:212223040066
+
 module Booleanexpressionmin(a,b,c,d,w,x,y,z,f1,f2); 
 input a,b,c,d,w,x,y,z; 
 output f1,f2; 
@@ -53,9 +57,6 @@ or(f2,s,t,u);
 endmodule
 
 
-Developed by:Hemapriya.K 
-
-RegisterNumber:212223040066
 
 
 **Output:**
